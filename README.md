@@ -1,6 +1,6 @@
 # Catalog Spring Boot App
 
-A product catalog management system built with Spring Boot that provides RESTful APIs for managing products in a catalog.
+A product catalog management system built with Spring Boot that provides RESTful APIs for managing products in a catalog. (Webapp screenshots at end of this file)
 
 ## About This Project
 
@@ -65,7 +65,7 @@ The application follows a layered architecture:
 ### Create Product API
 ![Create Product](https://github.com/Muskan-2403/Catalog-Spring-Boot-App/blob/main/add-product.png)
 
-### cart
+### Cart
 ![cart](https://github.com/Muskan-2403/Catalog-Spring-Boot-App/blob/main/cart.png)
 
 ### Delete Product API
