@@ -55,3 +55,29 @@ The application follows a layered architecture:
 - **Service Layer** - Contains business logic
 - **Repository Layer** - Manages data persistence
 - **Model/Entity Layer** - Defines data structures
+
+- 
+## Screenshots
+
+### Application Running
+![Application Running](https://github.com/Muskan-2403/Catalog-Spring-Boot-App/blob/main/app-running.png)
+
+### Create Product API
+![Create Product](https://github.com/Muskan-2403/Catalog-Spring-Boot-App/blob/main/add-product.png)
+
+### cart
+![cart](https://github.com/Muskan-2403/Catalog-Spring-Boot-App/blob/main/cart.png)
+
+### Delete Product API
+![Delete Product](https://github.com/Muskan-2403/Catalog-Spring-Boot-App/blob/main/delete-product.png)
+
+### Search bar
+![Search bar](https://github.com/Muskan-2403/Catalog-Spring-Boot-App/blob/main/search-bar.png)
+
+### View product
+![View Product](https://github.com/Muskan-2403/Catalog-Spring-Boot-App/blob/main/view-product.png)
+
+### Update Product API
+![Update Product](https://github.com/Muskan-2403/Catalog-Spring-Boot-App/blob/main/update-product.png)
+
+
